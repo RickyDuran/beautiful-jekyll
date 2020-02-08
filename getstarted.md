@@ -24,7 +24,6 @@ Here is a 40-second video showing how to get started, with the specific steps be
 <img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <br/>
 
@@ -33,7 +32,6 @@ Here is a 40-second video showing how to get started, with the specific steps be
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
 
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 
 ### 2. Rename the repository to `yourusername.github.io`
@@ -41,7 +39,6 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 
 ### 3. Customize settings
