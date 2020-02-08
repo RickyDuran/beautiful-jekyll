@@ -52,8 +52,8 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "https://ricardoduraniii.files.wordpress.com/2017/10/cropped-img_20171019_085648249.jpg"
-# footer-img: "/img/bgimage.png"
- page-img: "https://ricardoduraniii.files.wordpress.com/2017/10/cropped-img_20171019_085648249.jpg"
+ footer-img: "https://ricardoduraniii.files.wordpress.com/2017/10/cropped-img_20171019_085648249.jpg"
+# page-img: "https://ricardoduraniii.files.wordpress.com/2017/10/cropped-img_20171019_085648249.jpg"
 
 # --- Footer options --- #
 
