@@ -39,7 +39,7 @@ avatar: "https://ricardoduraniii.files.wordpress.com/2018/01/website-icon.jpg"
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#FDFEFE"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#34495E"
 page-col: "#F8F9F9"
 link-col: "#008AFF"
 hover-col: "##3498DB"
