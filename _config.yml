@@ -1,11 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Ricardo Duran III
 
 # Short description of your site
-description: A virtual proof that I'm awesome
-
+description: Thank you for visiting my website. Here you will find more information on my passion for creating positive change in the community, as well as some examples of projects I have taken on. Please feel free to contact me directly with any questions, or to discuss a potential opportunity!
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
