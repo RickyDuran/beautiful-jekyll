@@ -31,7 +31,7 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 
 </div>
 
-<div class="gs-section-01">
+<div class="gs-section-02">
 
 ### 2. Rename the repository to `yourusername.github.io`
 
@@ -39,7 +39,7 @@ This will create a GitHub User page ready with the **Beautiful Jekyll** template
 
 </div>
 
-<div class="gs-section-01">
+<div class="gs-section-03">
 
 ### 3. Customize settings
 
