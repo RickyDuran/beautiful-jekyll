@@ -21,7 +21,7 @@ description: A little about me!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Qualifications: "https://ricardoduraniii.wordpress.com/qualifications/"
+    - Qualifications: "cv"
     - Publications: "http://ricardoduraniii.com/presentations-publications/"
     - Getting Started: "getstarted"
   Table Demo: "table-demo"
