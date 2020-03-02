@@ -20,11 +20,13 @@ description: A little about me!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Qualifications: "cv"
-    - Publications: "http://ricardoduraniii.com/presentations-publications/"
-    - Getting Started: "getstarted"
-  Table Demo: "table-demo"
+  Qualifications: "cv"
+  Publications: "http://ricardoduraniii.com/presentations-publications/"
+  Portfolio:
+    - Tempe Accident Dashboard: "https://ricky-duran.shinyapps.io/tempe-crash-dashboard/"
+    - Demographic Changes in Auston, TX: "https://rpubs.com/RickyDuran/austin-demographic-change"
+    - Demographic Changes Explained: "https://rpubs.com/RickyDuran/clustering-neighborhoods"
+    -Creating a Professional Profile: "https://rickyduran.github.io/code-through/code-through-duran.html"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
