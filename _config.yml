@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: "Ricky Duran"
+title: Ricky Duran
 
 # Short description of your site
-description: "A little about me!"
+description: A little about me!
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -54,7 +54,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "https://ricardoduraniii.files.wordpress.com/2017/10/cropped-img_20171019_085648249.jpg"
- footer-img: "https://ricardoduraniii.files.wordpress.com/2017/10/cropped-img_20171019_085648249.jpg"
+footer-img: "https://ricardoduraniii.files.wordpress.com/2017/10/cropped-img_20171019_085648249.jpg"
 # page-img: "https://ricardoduraniii.files.wordpress.com/2017/10/cropped-img_20171019_085648249.jpg"
 
 # --- Footer options --- #
